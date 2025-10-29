@@ -133,7 +133,7 @@ body {
     position: absolute;
     inset: 0;
     opacity: 50%;
-    background-image: url('assets/puzzle-bg.png');
+    background-image: url('ASSETS/puzzle-bg.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -823,3 +823,4 @@ body {
         padding: 0 var(--spacing-sm);
     }
 }
+
